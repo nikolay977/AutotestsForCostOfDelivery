@@ -1,1 +1,15 @@
-# AutotestsForCostOfDelivery
+# Autotests
+
+Проект автотестов для проверки функции расчета стоимости доставки
+
+## Стек технологий
+
+----
+
+- Maven
+- TestNG
+- Lombok
+
+## Как запускать тесты
+
+mvn test test
