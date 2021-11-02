@@ -12,4 +12,4 @@
 
 ## Как запускать тесты
 
-mvn test test
+mvn clean test
